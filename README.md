@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, pessoal! 👋
 
-<!--
-**Ariane-Prado/Ariane-Prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindos ao meu espaço no GitHub! Estou em uma emocionante transição de carreira, trazendo minha experiência como designer de interiores especializada em **móveis planejados** e **gestão de marcenaria** para o mundo da tecnologia. Meu sonho é usar a tecnologia para criar soluções que impactem positivamente a vida das pessoas.
 
-Here are some ideas to get you started:
+### Sobre mim
+- 🌱 Atualmente, estou me dedicando aos estudos em **Engenharia de Software** e explorando **Python** e **C#** para unir criatividade e tecnologia em projetos futuros.
+- 🎨 Com uma sólida trajetória no design de interiores, trago um olhar voltado para a funcionalidade, a estética e a solução de problemas no desenvolvimento de sistemas.
+- 💡 Meu objetivo é aprender e crescer na área tech, desenvolvendo projetos que conectem pessoas e facilitem suas vidas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que estou estudando
+- **Lógica de Programação**: Construindo bases sólidas para entender e resolver problemas computacionais.
+- **Desenvolvimento de Software**: Explorando conceitos iniciais de linguagens como Python, Java, JavaScript.
+- **Metodologias Ágeis**: Estou aprimorando meus conhecimentos em gestão ágil, que já utilizava na marcenaria, adaptando essas práticas para o desenvolvimento de soluções no mundo da tecnologia.
+
+### Sonho e propósito
+Transformar minha paixão por design e gestão em ferramentas tecnológicas que ajudem profissionais e empresas a simplificar processos e alcançar resultados positivos. 
+
+### Como me encontrar
+- 📫 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/ariane-prado/)
+- <a href="https://instagram.com/arianeprado_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- 🌟 Estou sempre aberta a trocar ideias e compartilhar aprendizados com quem também está começando ou já está na área tech!
+
+Vamos aprender e crescer juntos! 🚀
