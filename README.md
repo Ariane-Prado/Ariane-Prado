@@ -7,11 +7,6 @@ Bem-vindos ao meu espaço no GitHub! Estou em uma emocionante transição de car
 - 🎨 Com uma sólida trajetória no design de interiores, trago um olhar voltado para a funcionalidade, a estética e a solução de problemas no desenvolvimento de sistemas.
 - 💡 Meu objetivo é aprender e crescer na área tech, desenvolvendo projetos que conectem pessoas e facilitem suas vidas.
 
-### O que estou estudando
-- **Lógica de Programação**: Construindo bases sólidas para entender e resolver problemas computacionais.
-- **Desenvolvimento de Software**: Explorando conceitos iniciais de linguagens como Python, Java, JavaScript.
-- **Metodologias Ágeis**: Estou aprimorando meus conhecimentos em gestão ágil, que já utilizava na marcenaria, adaptando essas práticas para o desenvolvimento de soluções no mundo da tecnologia.
-
 ### Sonho e propósito
 Transformar minha paixão por design e gestão em ferramentas tecnológicas que ajudem profissionais e empresas a simplificar processos e alcançar resultados positivos. 
 
