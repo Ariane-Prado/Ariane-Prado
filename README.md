@@ -4,11 +4,11 @@ Bem-vindos ao meu espaço no GitHub! Estou em uma emocionante transição de car
 
 ### Sobre mim
 - 🌱 Atualmente, estou me dedicando aos estudos em **Engenharia de Software** e explorando **Python**, **Java** e **JavaScript** para unir criatividade e tecnologia em projetos futuros.
-- 🎨 Com uma sólida trajetória no design de interiores, trago um olhar voltado para a funcionalidade, a estética e a solução de problemas no desenvolvimento de sistemas.
+- 🎨 Com uma sólida trajetória em design de interiores, trago um olhar voltado para a funcionalidade, a estética e a solução de problemas.
 - 💡 Meu objetivo é aprender e crescer na área tech, desenvolvendo projetos que conectem pessoas e facilitem suas vidas.
 
 ### Sonho e propósito
-Transformar meu conhecimento em Design e Gestão em ferramentas tecnológicas que ajudem profissionais e empresas a simplificar processos e alcançar resultados positivos. 
+Utilizar meu conhecimento e vivência em outras áreas para criar ferramentas tecnológicas que ajudem profissionais e empresas a simplificar processos e alcançar resultados positivos. 
 
 ### Como me encontrar
 - 📫 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/ariane-prado/)
